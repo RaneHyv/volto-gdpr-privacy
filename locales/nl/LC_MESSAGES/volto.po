@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: nl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Language-Code: nl\n"
+"Language-Name: Dutch\n"
+"Preferred-Encodings: utf-8 latin1\n"
+
+#: components/CookieBanner/CookieBanner
+# defaultMessage: Accept all
+msgid "volto-gdpr-privacy-acceptAllCookies"
+msgstr "Accepteer alle"
+
+#: components/CookieBanner/CookieBanner
+# defaultMessage: Save my preferences
+msgid "volto-gdpr-privacy-acceptSettings"
+msgstr "Mijn voorkeuren opslaan"
+
+#: components/CookieBanner/CookieBanner
+# defaultMessage: Only necessary cookies
+msgid "volto-gdpr-privacy-acceptTechnicalCookies"
+msgstr "Alleen noodzakelijke cookies"
+
+#: components/ShowGdprBanner/ShowGdprBanner
+# defaultMessage: Show cookies settings
+msgid "volto-gdpr-privacy-buttonShowLabel"
+msgstr "Cookie-instellingen tonen"
+
+#: components/CookieBanner/CookieBanner
+# defaultMessage: Change settings
+msgid "volto-gdpr-privacy-changeSettings"
+msgstr "Instellingen wijzigen"
+
+#: components/CookieBanner/CookieBanner
+# defaultMessage: Accept only necessary cookies and close
+msgid "volto-gdpr-privacy-close"
+msgstr "Accepteer alleen noodzakelijke cookies en sluit"
+
+#: components/ConditionalEmbed/ConditionalEmbed
+# defaultMessage: {enable_cookie_button}, or {manage_preferences_button}
+msgid "volto-gdpr-privacy-conditional-embed-accept-message"
+msgstr "{enable_cookie_button}, of {manage_preferences_button}"
+
+#: components/ConditionalEmbed/ConditionalEmbed
+# defaultMessage: Please, accept {cookie_type} cookies to view this content.
+msgid "volto-gdpr-privacy-conditional-embed-default-description"
+msgstr "Accepteer {cookie_type} cookies om deze inhoud te bekijken."
+
+#: components/ConditionalEmbed/ConditionalEmbed
+# defaultMessage: manage your cookie preferences
+msgid "volto-gdpr-privacy-conditional-embed-generic-cookie-link"
+msgstr "Beheer uw cookievoorkeuren"
+
+#: components/ConditionalEmbed/ConditionalEmbed
+# defaultMessage: Enable {cookie_type} cookies
+msgid "volto-gdpr-privacy-conditional-embed-specific-cookie-link"
+msgstr "Schakel {cookie_type} cookies in"
+
+#: components/CookieBanner/CookieGroupSettings
+# defaultMessage: Disabled
+msgid "volto-gdpr-privacy-disabled"
+msgstr "Uitgeschakeld"
+
+#: components/CookieBanner/CookieGroupSettings
+# defaultMessage: Enabled
+msgid "volto-gdpr-privacy-enabled"
+msgstr "Ingeschakeld"
